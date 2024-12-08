@@ -1,0 +1,22 @@
+{
+  "name": "cypress-e2elearning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apalkumar/Cypress-E2ELearning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apalkumar/Cypress-E2ELearning/issues"
+  },
+  "homepage": "https://github.com/apalkumar/Cypress-E2ELearning#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
