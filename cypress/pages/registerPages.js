@@ -13,7 +13,7 @@ class registerPages{
         // policyCheckbox:'input[type="checkbox"]',
         // continue:'.btn.btn-primary'
 
-        firstName: () =>cy.get('#input-firstname1'),
+        firstName: () =>cy.get('#input-firstname'),
         lastName: () =>cy.get('#input-lastname'),
         eMail: () =>cy.get('#input-email'),
         telePhone: () =>cy.get('#input-telephone'),
