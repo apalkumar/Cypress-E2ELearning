@@ -1,4 +1,4 @@
-name: Sanity End-to-end tests
+name: Browser Specific End-to-end tests
 on: push
 jobs:
   cypress-run:
